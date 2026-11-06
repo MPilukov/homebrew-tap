@@ -1,8 +1,8 @@
 class ItermLayout < Formula
   desc "Save and restore iTerm2 windows, split panes, folders and Claude Code sessions"
   homepage "https://github.com/MPilukov/iterm-layout"
-  url "https://github.com/MPilukov/iterm-layout/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2d426fb6aea4093e472068c20abb466738fa8efd33bca5bf92dd1b6f6f53f360"
+  url "https://github.com/MPilukov/iterm-layout/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "4c725c4b24aef72bb74a7ef4d1375fcb7dfe3bdb743e5636be3f19a906ac8231"
   license "MIT"
 
   depends_on :macos
